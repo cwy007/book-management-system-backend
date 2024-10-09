@@ -1,5 +1,7 @@
 # README
 
+![architecture](./src/images/architecture.png)
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
