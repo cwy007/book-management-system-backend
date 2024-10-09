@@ -12,6 +12,7 @@ export const storage = multer.diskStorage({
     try {
       fs.mkdirSync('uploads');
     } catch (error) {
+      console.log('error-->', error);
     }
 
     cb(null, 'uploads');
