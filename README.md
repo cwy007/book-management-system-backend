@@ -2,10 +2,6 @@
 
 ![architecture](./src/images/architecture.png)
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Installation
 
 ```bash
@@ -26,20 +22,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
 ## links
 
-- [Docs](https://docs.nestjs.com/)
-- [Juejin](https://juejin.cn/book/7226988578700525605/section/7391332146377392164)
+- [https://docs.nestjs.com](https://docs.nestjs.com/)
+- [https://juejin.cn](https://juejin.cn/book/7226988578700525605/section/7391332146377392164)
